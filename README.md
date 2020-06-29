@@ -1,3 +1,4 @@
+Assignment 1 of the course Reproducible Research
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
