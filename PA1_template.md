@@ -23,7 +23,7 @@ stepsByDay <- tapply(activityData$steps, activityData$date, sum, na.rm=TRUE)
 qplot(stepsByDay, xlab='Total steps per day', ylab='Frequency using binwith 500', binwidth=500)
 ```
 
-![](unnamed-chunk-4-1.png)<!-- -->
+![](instructions_fig/unnamed-chunk-4-1.png)<!-- -->
 
 
 
